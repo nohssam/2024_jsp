@@ -1,0 +1,7 @@
+.metadata/
+Servers/
+.classpath
+.factorypath
+.project
+.settings/
+build/
